@@ -1,35 +1,54 @@
 # Hello World in Different Languages
 Welcome to the "Hello World in Different Languages" repository! This project aims to showcase the classic "Hello World" program implemented in a wide variety of programming languages. It's a fun and educational way to explore how different programming languages handle this simple task.
 
-## How to Contribute
+<img src="https://th.bing.com/th/id/R.d646405a7fcf80b1352c5b2b8b6f28c4?rik=Nrlv1lDk3%2fPo6w&riu=http%3a%2f%2frohandeuskar.com%2fwp-content%2fuploads%2f2015%2f08%2fHelloWorld.png&ehk=fDh%2f7WbbR%2bMtB3BhwbD5fL3zaUgSDb6t4f6fh%2bbdzI0%3d&risl=&pid=ImgRaw&r=0" alt="Hello World" align="center">
 
-We welcome contributions from developers of all levels of experience. If you'd like to add a "Hello World" program in a programming language that's not already in the collection or make improvements to existing code, here's how you can get started:
+ ## How to Contribute
+
+We welcome contributions from developers of all levels of experience and those New to the world of Open Source!!. If you'd like to add a "Hello World" program in a programming language that's not already in the collection or make improvements to existing code, here's how you can get started:
 
 1. **Fork the Repository:** Click the "Fork" button in the top-right corner of this repository to create a copy in your own GitHub account.
 
 2. **Clone Your Fork:** Clone the repository to your local machine using the following command (replace `<your-username>` with your GitHub username):
 
    ```bash
-   git clone https://github.com/<your-username>/Hello-World-in-Different-Languages.git
+   git clone https://github.com/<your-username>/Hello_World.git
    ```
 
 3. **Create a New Branch:** Create a new branch for your work. Use a descriptive branch name that reflects your contribution:
 
    ```bash
-   git checkout -b add-python-hello-world
+   git checkout -b <Pogramming Language name>
    ```
+   where <Programming Language name">" would be the name of the programming language used
 
 4. **Add Your "Hello World" Program:**
    - Create a new file in the appropriate language directory (e.g., `python/hello_world.py`).
    - Write your "Hello World" program in the chosen language.
-   - Include comments or a brief description if necessary to explain any language-specific features.
+   - Include comments or a brief description to explain any language-specific features.
+   - Here's the template for the above point
+```bash
+Description:
+
+Briefly explain the purpose of this file and the language-specific features demonstrated in the "Hello, World!" program.<Remove this line>
+
+<Insert_Description_Here>
+
+Language-Specific Features:
+
+Explain any language-specific features, syntax, or quirks used in this program. This can help learners understand the unique aspects of the programming language.<Remove this line>
+
+- Feature1: Explanation of the first language-specific feature.
+- Feature2: Explanation of the second language-specific feature(if applicable)
+```
+     
 
 5. **Test Your Code:** Ensure that your program works correctly and produces the expected "Hello World" output.
 
 6. **Commit Your Changes:** Commit your changes with a clear and concise commit message:
 
    ```bash
-   git commit -m "Add Hello World in Python"
+   git commit -m "Add Hello World in <Language name><Or any other Concise commit message>"
    ```
 
 7. **Push to Your Fork:** Push your changes to your forked repository:
@@ -46,10 +65,6 @@ We welcome contributions from developers of all levels of experience. If you'd l
 - Ensure your code is well-documented and easy to understand.
 - Avoid unnecessary dependencies or complex code. Keep it simple and concise.
 
-## License
-
-By contributing to this repository, you agree to license your code under the [MIT License](LICENSE).
-
 ## Maintainers
 
 - [Daivik Karbhari](https://github.com/user-dk)
@@ -59,4 +74,7 @@ By contributing to this repository, you agree to license your code under the [MI
  Be respectful and inclusive when interacting with other contributors.
 
 We look forward to your contributions and the diverse "Hello World" programs that will be added to this collection!
+
+ ## Note
+  If you have any suggestions regarding anything then don't Hesitate to contact me!!
 ```
