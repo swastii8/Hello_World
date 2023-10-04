@@ -15,18 +15,13 @@ We welcome contributions from developers of all levels of experience and those N
    git clone https://github.com/<your-username>/Hello_World.git
    ```
 
-3. **Create a New Branch:** Create a new branch for your work. Use a descriptive branch name that reflects your contribution:
-
-   ```bash
-   git checkout -b <Pogramming Language name>
-   ```
-   where <Programming Language name">" would be the name of the programming language used
+3. **Create a New Branch:** Create a new file (directory) for your work with the name of the programming language name.
 
 4. **Add Your "Hello World" Program:**
    - Create a new file in the appropriate language directory (e.g., `python/hello_world.py`).
    - Write your "Hello World" program in the chosen language.
    - Include comments or a brief description to explain any language-specific features.
-   - Here's the template for the above point
+   - Here's the template for the above point (not being strict with template given below).
 ```bash
 Description:
 
