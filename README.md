@@ -21,22 +21,6 @@ We welcome contributions from developers of all levels of experience and those N
    - Create a new file in the appropriate language directory (e.g., `python/hello_world.py`).
    - Write your "Hello World" program in the chosen language.
    - Include comments or a brief description to explain any language-specific features.
-   - Here's the template for the above point (not being strict with template given below).
-```bash
-Description:
-
-Briefly explain the purpose of this file and the language-specific features demonstrated in the "Hello, World!" program.<Remove this line>
-
-<Insert_Description_Here>
-
-Language-Specific Features:
-
-Explain any language-specific features, syntax, or quirks used in this program. This can help learners understand the unique aspects of the programming language.<Remove this line>
-
-- Feature1: Explanation of the first language-specific feature.
-- Feature2: Explanation of the second language-specific feature(if applicable)
-```
-     
 
 5. **Test Your Code:** Ensure that your program works correctly and produces the expected "Hello World" output.
 
